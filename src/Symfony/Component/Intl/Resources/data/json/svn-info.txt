@@ -1,0 +1,7 @@
+SVN information
+===============
+
+URL: http://source.icu-project.org/repos/icu/icu/tags/release-53-1/source
+Revision: 35549
+Author: yoshito
+Date: 2014-03-30T05:54:14.093046Z

@@ -1,0 +1,13 @@
+{
+    "Version": "2.0.92.8",
+    "Names": {
+        "COP": [
+            "$",
+            "peso colombiano"
+        ],
+        "USD": [
+            "US$",
+            "dólar estadounidense"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "2.0.90.61",
+    "Names": {
+        "CVE": [
+            "CVE",
+            "Escudo cabo-verdiano",
+            {}
+        ],
+        "PTE": [
+            "Esc.",
+            "Escudo português",
+            {}
+        ]
+    }
+}

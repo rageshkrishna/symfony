@@ -28,5 +28,5 @@ install:
     - COMPOSER_ROOT_VERSION=dev-master composer --prefer-source install
 
 script:
-    - ls -d src/Symfony/*/* | parallel --gnu --keep-order 'echo "Running {} tests"; phpunit --exclude-group tty,benchmark {};'
+    - ls -d src/Symfony/*/* | parallel --gnu --keep-order 'echo "Running {} tests"; phpunit --exclude-group tty,benchmark,intl-data {};'
     - echo "Running tests requiring tty"; phpunit --group tty
