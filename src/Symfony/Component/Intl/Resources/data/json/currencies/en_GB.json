@@ -1,0 +1,129 @@
+{
+    "Version": "2.0.98.76",
+    "Names": {
+        "AUD": [
+            "AU$",
+            "Australian Dollar"
+        ],
+        "BRL": [
+            "R$",
+            "Brazilian Real"
+        ],
+        "BYB": [
+            "BYB",
+            "Belarusian New Rouble (1994–1999)"
+        ],
+        "BYR": [
+            "BYR",
+            "Belarusian Rouble"
+        ],
+        "CAD": [
+            "CA$",
+            "Canadian Dollar"
+        ],
+        "CNY": [
+            "CN¥",
+            "Chinese Yuan"
+        ],
+        "EUR": [
+            "€",
+            "Euro"
+        ],
+        "GBP": [
+            "£",
+            "British Pound"
+        ],
+        "HKD": [
+            "HK$",
+            "Hong Kong Dollar"
+        ],
+        "ILR": [
+            "ILR",
+            "Israeli Shekel (1980–1985)"
+        ],
+        "ILS": [
+            "₪",
+            "Israeli New Shekel"
+        ],
+        "INR": [
+            "₹",
+            "Indian Rupee"
+        ],
+        "KRW": [
+            "₩",
+            "South Korean Won"
+        ],
+        "LVR": [
+            "LVR",
+            "Latvian Rouble"
+        ],
+        "MGA": [
+            "MGA",
+            "Malagasy Ariary"
+        ],
+        "MWK": [
+            "MWK",
+            "Malawian Kwacha"
+        ],
+        "MXN": [
+            "MX$",
+            "Mexican Peso"
+        ],
+        "NZD": [
+            "NZ$",
+            "New Zealand Dollar"
+        ],
+        "RUB": [
+            "RUB",
+            "Russian Rouble"
+        ],
+        "RUR": [
+            "RUR",
+            "Russian Rouble (1991–1998)"
+        ],
+        "SCR": [
+            "SCR",
+            "Seychelles Rupee"
+        ],
+        "THB": [
+            "฿",
+            "Thai Baht"
+        ],
+        "TJR": [
+            "TJR",
+            "Tajikistani Rouble"
+        ],
+        "TWD": [
+            "NT$",
+            "New Taiwan Dollar"
+        ],
+        "USD": [
+            "$",
+            "US Dollar"
+        ],
+        "UZS": [
+            "UZS",
+            "Uzbekistani Som"
+        ],
+        "VND": [
+            "₫",
+            "Vietnamese Dong"
+        ],
+        "XAF": [
+            "FCFA",
+            "Central African CFA Franc"
+        ],
+        "XCD": [
+            "EC$",
+            "East Caribbean Dollar"
+        ],
+        "XOF": [
+            "CFA",
+            "West African CFA Franc"
+        ],
+        "XPF": [
+            "CFPF",
+            "CFP Franc"
+        ]
+    }
+}

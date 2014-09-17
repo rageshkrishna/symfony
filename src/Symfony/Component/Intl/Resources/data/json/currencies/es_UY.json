@@ -1,0 +1,13 @@
+{
+    "Version": "2.0.92.87",
+    "Names": {
+        "USD": [
+            "US$",
+            "dólar estadounidense"
+        ],
+        "UYU": [
+            "$",
+            "peso uruguayo"
+        ]
+    }
+}

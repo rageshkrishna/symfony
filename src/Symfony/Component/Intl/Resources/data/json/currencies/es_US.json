@@ -1,0 +1,13 @@
+{
+    "Version": "2.0.98.76",
+    "Names": {
+        "JPY": [
+            "¥",
+            "yen japonés"
+        ],
+        "USD": [
+            "$",
+            "dólar estadounidense"
+        ]
+    }
+}

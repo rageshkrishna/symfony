@@ -1,0 +1,13 @@
+{
+    "Version": "2.0.95.26",
+    "Names": {
+        "CAD": [
+            "$",
+            "Canadian Dollar"
+        ],
+        "USD": [
+            "US$",
+            "US Dollar"
+        ]
+    }
+}
