@@ -1,0 +1,13 @@
+{
+    "Version": "2.0.95.35",
+    "Names": {
+        "SGD": [
+            "$",
+            "Singapore Dollar"
+        ],
+        "USD": [
+            "US$",
+            "US Dollar"
+        ]
+    }
+}
